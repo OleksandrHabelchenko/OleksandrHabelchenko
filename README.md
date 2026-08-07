@@ -9,4 +9,4 @@ Junior Python Backend Developer, self-studying Django, Flask and PostgreSQL.
 
 
 ## Tools and Languages
-![My Skills](https://skillicons.dev/icons?i=python, django, flask, fastapi, postgres, sqlite, docker, git, html, css, js, linux)
+![My Skills](https://skillicons.dev/icons?i=python,django,flask,fastapi,postgres,sqlite,docker,git,html,css,js,linux)
