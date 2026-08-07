@@ -10,18 +10,20 @@ Junior Python Backend Developer, self-studying Django, Flask and PostgreSQL.
 
 ## Tools and Languages
 
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />][github]
-[<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png" />][github]
-[<img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/flask/flask.png" />][github]
-[<img align="left" alt="FastAPI" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/fastapi/fastapi.png" />][github]
-[<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" />][github]
-[<img align="left" alt="SQLite" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/sqlite/sqlite.png" />][github]
-[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" />][github]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />][github]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />][github]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />][github]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />][github]
-[<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" />][github]
+[<img align="left" alt="Python" width="26px" src="https://skillicons.dev/icons?i=python" />][github]
+[<img align="left" alt="Django" width="26px" src="https://skillicons.dev/icons?i=django" />][github]
+[<img align="left" alt="Flask" width="26px" src="https://skillicons.dev/icons?i=flask" />][github]
+[<img align="left" alt="FastAPI" width="26px" src="https://skillicons.dev/icons?i=fastapi" />][github]
+[<img align="left" alt="PostgreSQL" width="26px" src="https://skillicons.dev/icons?i=postgres" />][github]
+[<img align="left" alt="SQLite" width="26px" src="https://skillicons.dev/icons?i=sqlite" />][github]
+[<img align="left" alt="Docker" width="26px" src="https://skillicons.dev/icons?i=docker" />][github]
+[<img align="left" alt="Git" width="26px" src="https://skillicons.dev/icons?i=git" />][github]
+[<img align="left" alt="GitHub" width="26px" src="https://skillicons.dev/icons?i=github" />][github]
+[<img align="left" alt="HTML5" width="26px" src="https://skillicons.dev/icons?i=html" />][github]
+[<img align="left" alt="CSS3" width="26px" src="https://skillicons.dev/icons?i=css" />][github]
+[<img align="left" alt="JavaScript" width="26px" src="https://skillicons.dev/icons?i=js" />][github]
+[<img align="left" alt="Linux" width="26px" src="https://skillicons.dev/icons?i=linux" />][github]
+[<img align="left" alt="Postman" width="26px" src="https://skillicons.dev/icons?i=postman" />][github]
 
 <br />
 
