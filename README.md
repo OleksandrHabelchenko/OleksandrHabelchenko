@@ -6,3 +6,7 @@ Junior Python Backend Developer, self-studying Django, Flask and PostgreSQL.
 - 🛠️ Other projects: REST API and authentication system built with Flask ([flask-rest-api](https://github.com/OleksandrHabelchenko/flask-rest-api), [flask-auth-app](https://github.com/OleksandrHabelchenko/flask-auth-app))
 - 🌱 Next up: Django REST Framework, Docker, FastAPI, JavaScript, Linux
 - 📫 Reach me on [Telegram](https://t.me/Alex_Habel)
+
+
+## Tools and Languages
+![My Skills](https://skillicons.dev/icons?i=python,django,flask,fastapi,postgres,sqlite,docker,git,github,html,css,js,linux)
