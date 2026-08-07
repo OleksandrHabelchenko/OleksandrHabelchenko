@@ -9,4 +9,20 @@ Junior Python Backend Developer, self-studying Django, Flask and PostgreSQL.
 
 
 ## Tools and Languages
-![My Skills](https://skillicons.dev/icons?i=python,django,linux,flask,fastapi,postgres,sqlite,docker,git,html,css,js)
+
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />][github]
+[<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png" />][github]
+[<img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/flask/flask.png" />][github]
+[<img align="left" alt="FastAPI" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/fastapi/fastapi.png" />][github]
+[<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" />][github]
+[<img align="left" alt="SQLite" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/sqlite/sqlite.png" />][github]
+[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" />][github]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />][github]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />][github]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />][github]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />][github]
+[<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" />][github]
+
+<br />
+
+[github]: https://github.com/OleksandrHabelchenko
