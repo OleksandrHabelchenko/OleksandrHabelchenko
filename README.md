@@ -18,7 +18,6 @@ Junior Python Backend Developer, self-studying Django, Flask and PostgreSQL.
 [<img align="left" alt="SQLite" width="26px" src="https://skillicons.dev/icons?i=sqlite" />][github]
 [<img align="left" alt="Docker" width="26px" src="https://skillicons.dev/icons?i=docker" />][github]
 [<img align="left" alt="Git" width="26px" src="https://skillicons.dev/icons?i=git" />][github]
-[<img align="left" alt="GitHub" width="26px" src="https://skillicons.dev/icons?i=github" />][github]
 [<img align="left" alt="HTML5" width="26px" src="https://skillicons.dev/icons?i=html" />][github]
 [<img align="left" alt="CSS3" width="26px" src="https://skillicons.dev/icons?i=css" />][github]
 [<img align="left" alt="JavaScript" width="26px" src="https://skillicons.dev/icons?i=js" />][github]
