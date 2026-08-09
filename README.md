@@ -1,10 +1,12 @@
 ### Hi, I'm Oleksandr 👋
 
-Junior Python Backend Developer, self-studying Django, Flask and PostgreSQL.
+Junior Python Backend Developer, self-studying Django, FastAPI, DRF, Docker and PostgreSQL.
 
-- 🚀 Latest project: [Django Furniture Store](https://github.com/OleksandrHabelchenko/Django-furniture-store) — e-commerce site with cart, orders, user profile and caching
-- 🛠️ Other projects: REST API and authentication system built with Flask ([flask-rest-api](https://github.com/OleksandrHabelchenko/flask-rest-api), [flask-auth-app](https://github.com/OleksandrHabelchenko/flask-auth-app))
-- 🌱 Next up: Django REST Framework, Docker, FastAPI, JavaScript, Linux
+- 🌐 Portfolio: [habelchenko.de](https://habelchenko.de)
+- 🚀 Latest project: [fastapi-furniture](https://github.com/OleksandrHabelchenko/fastapi-furniture) — REST API with FastAPI, SQLAlchemy, PostgreSQL, JWT auth, Docker and CI/CD
+- 🐛 Recently found and fixed a real PUT/DELETE bug in [todo-app](https://github.com/OleksandrHabelchenko/todo-app) using pytest — full story on my portfolio site
+- 🛠️ Also built: [Django Furniture Store](https://github.com/OleksandrHabelchenko/Django-furniture-store) (e-commerce, cart, orders, caching) and [furniture-drf-api](https://github.com/OleksandrHabelchenko/furniture-drf-api) (DRF, JWT, filtering, pagination)
+- 🌱 Currently learning: Linux/WSL, CI/CD pipelines, deployment
 - 📫 Reach me on [Telegram](https://t.me/Alex_Habel)
 
 
