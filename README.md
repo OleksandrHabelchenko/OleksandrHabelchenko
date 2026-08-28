@@ -1,6 +1,6 @@
 ### Hi, I'm Oleksandr 👋
 
-Junior Python Backend Developer, self-studying Django, FastAPI, DRF, Docker and PostgreSQL.
+Python Backend Developer, self-studying Django, FastAPI, DRF, Docker and PostgreSQL.
 
 - 🌐 Portfolio: [habelchenko.de](https://habelchenko.de)
 - 🚀 Latest project: [fastapi-furniture](https://github.com/OleksandrHabelchenko/fastapi-furniture) — REST API with FastAPI, SQLAlchemy, PostgreSQL, JWT auth, Docker and CI/CD
