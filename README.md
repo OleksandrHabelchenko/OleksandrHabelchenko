@@ -1,9 +1,8 @@
 ### Hi, I'm Oleksandr 👋
 
-Python Backend Developer, self-studying Django, FastAPI, DRF, Docker and PostgreSQL.
+Python Backend Developer, Django, FastAPI, DRF, Docker and PostgreSQL.
 
 - 🌐 Portfolio: [habelchenko.de](https://habelchenko.de)
-- 🚀 Latest project: [fastapi-furniture](https://github.com/OleksandrHabelchenko/fastapi-furniture) — REST API with FastAPI, SQLAlchemy, PostgreSQL, JWT auth, Docker and CI/CD
 - 🐛 Recently found and fixed a real PUT/DELETE bug in [todo-app](https://github.com/OleksandrHabelchenko/todo-app) using pytest — full story on my portfolio site
 - 🛠️ Also built: [Django Furniture Store](https://github.com/OleksandrHabelchenko/Django-furniture-store) (e-commerce, cart, orders, caching) and [furniture-drf-api](https://github.com/OleksandrHabelchenko/furniture-drf-api) (DRF, JWT, filtering, pagination)
 - 🌱 Currently learning: Linux/WSL, CI/CD pipelines, deployment
