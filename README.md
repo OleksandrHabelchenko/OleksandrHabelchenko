@@ -5,7 +5,6 @@ Python Backend Developer, Django, FastAPI, DRF, Docker and PostgreSQL.
 - 🌐 Portfolio: [habelchenko.de](https://habelchenko.de)
 - 🐛 Recently found and fixed a real PUT/DELETE bug in [todo-app](https://github.com/OleksandrHabelchenko/todo-app) using pytest — full story on my portfolio site
 - 🛠️ Also built: [Django Furniture Store](https://github.com/OleksandrHabelchenko/Django-furniture-store) (e-commerce, cart, orders, caching) and [furniture-drf-api](https://github.com/OleksandrHabelchenko/furniture-drf-api) (DRF, JWT, filtering, pagination)
-- 🌱 Currently learning: Linux/WSL, CI/CD pipelines, deployment
 - 📫 Reach me on [Telegram](https://t.me/Alex_Habel)
 
 
